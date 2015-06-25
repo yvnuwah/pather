@@ -1,7 +1,7 @@
 # Pather Coding Challenge
-**Completed by Yvonne Uwah**
+#####Completed by Yvonne Uwah
 
-**Language used: PHP**
+#####Language used: PHP
 
 ## Challenge Instructions
 
