@@ -3,7 +3,7 @@
 
 #####Language used: PHP
 
-## Challenge Instructions
+## Original Challenge Instructions
 
 Given that the text file 'input.txt' contains a rectangular block of dot
 characters ('.') and two or more hash characters ('#'), write a program 'pather'
@@ -22,6 +22,6 @@ The rules for the path:
 * Only change direction once per pair of hashes. 
 * Start with a vertical line and then complete with a horizontal line.
 
-## Running the program
+## Instructions to Run My Solution
 I haven't quite figured out how to run it using the **path-problem.sh** test script. However to run it and test the results manually, enter `php pather.php input.txt output.txt`, replacing **input.txt** and **output.txt** with different text file names as needed.
 
